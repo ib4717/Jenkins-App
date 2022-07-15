@@ -25,6 +25,62 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/MyMaths.csproj": {
+                "projectPath": "/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/MyMaths.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/MyMaths.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/MyMaths.csproj",
+        "projectName": "MyMaths",
+        "projectPath": "/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/MyMaths.csproj",
+        "packagesPath": "/Users/ishwarbaisla/.nuget/packages/",
+        "outputPath": "/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ishwarbaisla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },

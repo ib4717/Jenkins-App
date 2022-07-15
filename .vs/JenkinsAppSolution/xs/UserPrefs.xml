@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{E2A0380D-F7CD-46FC-BAA0-039034CBAE36}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.JenkinsApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E2A0380D-F7CD-46FC-BAA0-039034CBAE36}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyMaths FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="JenkinsApp/Program.cs">
     <Files>
@@ -19,8 +20,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.JenkinsApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

@@ -1,0 +1,12 @@
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/bin/Debug/net6.0/MyMaths.deps.json
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/bin/Debug/net6.0/MyMaths.dll
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/bin/Debug/net6.0/MyMaths.pdb
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/MyMaths.csproj.AssemblyReference.cache
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/MyMaths.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/MyMaths.AssemblyInfoInputs.cache
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/MyMaths.AssemblyInfo.cs
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/MyMaths.csproj.CoreCompileInputs.cache
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/MyMaths.dll
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/refint/MyMaths.dll
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/MyMaths.pdb
+/Volumes/Study/LTI/DotNet/JenkinsAppSolution/MyMaths/obj/Debug/net6.0/ref/MyMaths.dll
