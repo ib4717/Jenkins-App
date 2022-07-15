@@ -4,9 +4,11 @@
     {
         static void Main(string[] args)
         {
+            string name;
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to Jenkins");
-            Console.ReadLine();
+            name = Console.ReadLine();
+            Console.WriteLine("Welcome " + name);
         }
     }
 }
